@@ -2,6 +2,8 @@
   "name": "hw5",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://daniilkir.github.io/hw5js/src/index.html",
+
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/*.html --public-url /hw5js/"

@@ -1,0 +1,5 @@
+.pnotify {
+    position: absolute;
+    z-index: 1;
+    animation-duration: 1s;
+}
